@@ -6,7 +6,7 @@ My name is Roysworth. I figure out how things work. I solve computer problems.
 
 I am a professional building my skills in networking, programming, coding, and system troubleshooting to develop a solid foundation for a career in technology.
 
-On GitHub, I’m working on beginner python projects, IT fundamentals labs, web development basics, and command line & system projects. Anything I can learn from, really.
+On GitHub, I’m working on beginner python projects, IT fundamentals labs, web development basics, and command line & system projects. A bunch of stuff. Anything I can learn from, really.
 
 Stay for a while!
 
