@@ -1,14 +1,15 @@
-## What is This?
+## What is This? 👀
 
-Thanks for stopping by!
+Thank you for stopping by!
 
-My name is Roysworth. I like figuring out how things actually work. I like to solve problems.
+My name is Roysworth. I figure out how things work. I solve computer problems.
 
-I am a professional currently building my skills in networking, programming, coding, and system troubleshooting, with the goal of developing a solid foundation for a career in technology.
+I am a professional building my skills in networking, programming, coding, and system troubleshooting to develop a solid foundation for a career in technology.
 
-On GitHub, I’m working on beginner python projects, IT fundamentals labs, web development basics, and command line & system projects. 
+On GitHub, I’m working on beginner python projects, IT fundamentals labs, web development basics, and command line & system projects. Anything I can learn from, really.
 
-I use GitHub as a learning tool to track my progress, document what I learn, and build a portfolio that reflects real growth over time. My goal is to improve consistently, take on more complex challenges, and develop practical skills that translate into real-world IT and software development roles.
+I seek continuous improvement, to tackle increasingly complex challenges, and to develop practical skills that translate directly to real-world IT and software development roles.
+
 <!--
 **roysworth/roysworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
