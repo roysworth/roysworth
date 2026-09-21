@@ -1,15 +1,5 @@
 ## What is This? 👀
 
-Thank you for stopping by!
-
-My name is Roysworth. I figure out how things work. I solve computer problems.
-
-I am a professional building my skills in networking, programming, coding, and system troubleshooting in order to develop a career in technology.
-
-On GitHub, I’m working on beginner python projects, IT fundamentals labs, web development basics, and command line & system projects. A bunch of stuff. Anything I can learn from, really.
-
-Click around! Stay for a while!
-
 <!--
 **roysworth/roysworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
